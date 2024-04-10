@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ](https://your-solution-url.com)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Solution URL: [ solution URL ](https://github.com/ABU-BAKAR-S/Frontend-Mentor-Product-Card)
+- Live Site URL: [ live site URL ](https://abu-bakar-s.github.io/Frontend-Mentor-Product-Card/)
 
 ## My process
 
