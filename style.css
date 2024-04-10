@@ -64,7 +64,7 @@ img {
   font-family: var(--primaryFont);
   font-size: 13px;
   font-weight: 300;
-  letter-spacing: 3px;
+  letter-spacing: 4px;
   text-transform: uppercase;
 }
 .card-body p {
@@ -139,8 +139,8 @@ img {
     justify-content: center;
   }
   .card {
-    width: 550px;
-    height: 420px;
+    width: 600px;
+    height: 450px;
     display: flex;
   }
   .card-img {
@@ -164,16 +164,6 @@ img {
   }
   .card-body h3 {
     font-size: 30px;
-  }
-}
-
-/* ----media query for large device ----- */
-@media screen and (min-width: 1024px) {
-  .card {
-    width: 600px;
-    height: 450px;
-  }
-  .card-body h3 {
-    font-size: 36px;
+    padding-right: 30px;
   }
 }
